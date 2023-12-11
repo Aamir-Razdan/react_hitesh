@@ -1,0 +1,6 @@
+npx create-react-app name // this is bulky 
+npm run start
+
+to run the code 
+
+npm run start
