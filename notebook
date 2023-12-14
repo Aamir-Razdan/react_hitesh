@@ -1,0 +1,13 @@
+make react file with vite
+
+npm create vite@latest
+
+name : project
+
+select a framework
+ 
+ react 
+ javascript
+
+
+ check the folder with (ls) is node not present then run npm install
