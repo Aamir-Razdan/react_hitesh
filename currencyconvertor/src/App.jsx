@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>currency app</h1>
+      <h3>hello</h3>
     </>
   )
 }
