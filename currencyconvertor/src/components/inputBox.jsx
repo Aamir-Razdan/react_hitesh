@@ -3,7 +3,7 @@
 function input1() {
   return (
     <div>
-      
+      <h1>ohll</h1>
     </div>
   )
 }

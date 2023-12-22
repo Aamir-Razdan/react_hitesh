@@ -65,7 +65,7 @@ useEffect(()=>{
         }}
           name="number"  />
         
-        <label htmlFor="number">Number</label>
+        <label htmlFor="number">Number f</label>
 
       </div>
       
